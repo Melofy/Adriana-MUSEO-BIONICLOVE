@@ -1,0 +1,32 @@
+*{margin; 0; pading; 0;}
+
+
+.menu {
+background: #000;
+height: 174px;}
+.menu2{
+    background:#463F45;
+    color: #fff;
+    height: 60px;
+    padding: 15px;
+}
+
+.video{
+height: 900px;
+background: #463F45;
+height: 900px;}
+
+.barra{
+height:90px;
+background: #000;}
+
+a{
+text-decoration: none;
+color: #fff;}
+
+
+.imagen{
+margin-top: 12%}
+
+.imagen3{
+margin-left: auto; }
